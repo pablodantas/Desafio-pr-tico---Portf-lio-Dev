@@ -1,0 +1,25 @@
+* {
+  --red: #e3646e;
+  --purple: #bb72e9;
+  --blue: #3996db;
+  --green: #82bc4f;
+  --yellow: #eabd5f;
+
+  --gray-100: #0d0e11;
+  --gray-200: #16181d;
+  --gray-300: #292c34;
+  --gray-400: #878ea1;
+  --gray-500: #c0c4ce;
+  --gray-600: #e2e4e9;
+
+  --font-family1: "Maven Pro", sans-serif;
+  --font-family2: "Inconsolata", monospace;
+  --font-family3: "Asap", sans-serif;
+
+  --text-small: 400 1.4rem/140% var(--font-family1);
+  --text-medium: 400 1.6rem/140% var(--font-family1);
+  --subtitle: 400 2rem/120% var(--font-family2);
+  --title-small: 700 1.6rem/120% var(--font-family3);
+  --title-medium: 700 2.4rem/120% var(--font-family3);
+  --title-large: 700 5.6rem/120% var(--font-family3);
+}

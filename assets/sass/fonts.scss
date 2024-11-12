@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Maven Pro", sans-serif;
+  src: local(Maven Pro) url(../fonts/MavenPro-Regular.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Inconsolata", monospace;
+  src: local(Inconsolata) url(../fonts/Inconsolata-Regular.ttf)
+    format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Asap", sans-serif;
+  src: local(Asap) url(../fonts/Asap-Bold.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
